@@ -22,6 +22,8 @@
     %showframe
 }
 
+\pagestyle{empty}
+
 \usepackage{courierten}
 \renewcommand*\familydefault{\ttdefault}
 \usepackage[T1]{fontenc}
